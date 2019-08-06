@@ -1,0 +1,4 @@
+changeRound = 6  //切换轮数
+selectSize = 4   //选择节点数
+checkPoint = 0  //低水位线
+litre = 10;  //水位
